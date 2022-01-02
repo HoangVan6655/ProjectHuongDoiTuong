@@ -1,0 +1,5 @@
+1, Dien Thoai, Do, apple, 30000000
+2, laptop, den, acer, 35000000
+3, tai nghe, den, samsung, 1200000
+5, loa bluetooth, trang, JBL, 4000000
+4, ban phim, den, akko, 990000
